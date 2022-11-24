@@ -18,7 +18,7 @@
     <ClCompile Include="Base\Tool.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3 c++提高编程\3 STL-常用容器\3.4 statck容器\3.4.1 statck常用接口.cpp">
+    <ClCompile Include="4 演讲比赛系统\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
